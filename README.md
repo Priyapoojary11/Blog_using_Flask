@@ -16,7 +16,7 @@ This is a simple blogging platform built with Flask and SQLite. Users can add ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PriyaPoojary11/flask_blog.git
-   cd flask_blog
+   git clone https://github.com/Priyapoojary11/Blog_using_Flask.git
+   cd Blog_using_Flask
    
 --------
